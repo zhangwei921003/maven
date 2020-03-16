@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf35664-1d6f-4c6e-a20a-0c8cdfdcb606" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIA0P2YBPItxLISb3kH5imJYZ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf35664-1d6f-4c6e-a20a-0c8cdfdcb606" name="Default Changelist" comment="" />
+      <created>1582619511068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582619511068</updated>
+      <workItem from="1582619513121" duration="213000" />
+      <workItem from="1582619909984" duration="111000" />
+      <workItem from="1582620042227" duration="30000" />
+      <workItem from="1582620105324" duration="610000" />
+      <workItem from="1582642675734" duration="1019000" />
+      <workItem from="1582767296545" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="83" key="#Project_Structure" timestamp="1582620234853">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="320" y="83" key="#Project_Structure/0.23.1440.786@0.23.1440.786" timestamp="1582620234853" />
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1582642742374">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser/0.23.1440.786@0.23.1440.786" timestamp="1582642742374" />
+    <state x="344" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1582620007186">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="344" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.786@0.23.1440.786" timestamp="1582620007186" />
+  </component>
+</project>

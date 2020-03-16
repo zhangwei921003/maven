@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7fa0d52-0ca2-4826-8153-cb2d4c09ff54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/Documents/soft/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvwRIzdrIYTXN0s53OpdS6NpMj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/study/panda" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.panda.test.Test" />
+      <module name="first-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.panda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7fa0d52-0ca2-4826-8153-cb2d4c09ff54" name="Default Changelist" comment="" />
+      <created>1581939866803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581939866803</updated>
+      <workItem from="1581939868166" duration="4192000" />
+      <workItem from="1582032710905" duration="1349000" />
+      <workItem from="1582040944068" duration="1274000" />
+      <workItem from="1582042892606" duration="1153000" />
+      <workItem from="1582044915727" duration="2270000" />
+      <workItem from="1582048642491" duration="453000" />
+      <workItem from="1582076710072" duration="3228000" />
+      <workItem from="1582097283166" duration="598000" />
+      <workItem from="1582182100108" duration="7000" />
+      <workItem from="1582189308910" duration="39000" />
+      <workItem from="1582556358156" duration="888000" />
+      <workItem from="1582595093544" duration="406000" />
+      <workItem from="1582792358848" duration="122000" />
+      <workItem from="1582792805461" duration="938000" />
+      <workItem from="1583298315783" duration="2828000" />
+      <workItem from="1583311834244" duration="7000" />
+      <workItem from="1583311858572" duration="6000" />
+      <workItem from="1583391331238" duration="334000" />
+      <workItem from="1583391788153" duration="502000" />
+      <workItem from="1583722776982" duration="613000" />
+      <workItem from="1583748402733" duration="21000" />
+      <workItem from="1584328275433" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581941598388">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1581941598388" />
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1581943994766">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser/0.23.1440.786@0.23.1440.786" timestamp="1581943994766" />
+    <state x="344" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581942644146">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="344" y="89" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.786@0.23.1440.786" timestamp="1581942644146" />
+    <state width="1358" height="342" key="GridCell.Tab.0.bottom" timestamp="1583403688668">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1583403688668" />
+    <state width="1358" height="342" key="GridCell.Tab.0.center" timestamp="1583403688667">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1583403688667" />
+    <state width="1358" height="342" key="GridCell.Tab.0.left" timestamp="1583403688666">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1583403688666" />
+    <state width="1358" height="342" key="GridCell.Tab.0.right" timestamp="1583403688667">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1583403688667" />
+    <state width="1358" height="342" key="GridCell.Tab.1.bottom" timestamp="1583403688669">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1583403688669" />
+    <state width="1358" height="342" key="GridCell.Tab.1.center" timestamp="1583403688669">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1583403688669" />
+    <state width="1358" height="342" key="GridCell.Tab.1.left" timestamp="1583403688669">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1583403688669" />
+    <state width="1358" height="342" key="GridCell.Tab.1.right" timestamp="1583403688669">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1358" height="342" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1583403688669" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1583391613605">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.786@0.23.1440.786" timestamp="1583391613605" />
+    <state x="97" y="117" key="new project wizard" timestamp="1582792474069">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="97" y="117" key="new project wizard/0.23.1440.786@0.23.1440.786" timestamp="1582792474069" />
+  </component>
+</project>

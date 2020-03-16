@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sample.maven:Project-B:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/soft/apache-maven-3.6.2/repository/com/sample/maven/Project-B/1.0/Project-B-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/soft/apache-maven-3.6.2/repository/com/sample/maven/Project-B/1.0/Project-B-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/soft/apache-maven-3.6.2/repository/com/sample/maven/Project-B/1.0/Project-B-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

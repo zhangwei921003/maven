@@ -1,0 +1,15 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sample.maven</groupId>
+  <artifactId>Project-A</artifactId>
+  <version>1.0</version>
+  <packaging>jar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.sample.maven</groupId>
+      <artifactId>Project-B</artifactId>
+      <version>1.0</version>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+</project>
